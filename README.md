@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @danielpimentel00
 - 👀 I’m interested in almost everything regarding technology! Really interesed in programming and app development.
-- 🌱 I’m currently learning SQL and database systems.
 - 💞️ I’m looking to collaborate on software development projects.
 - 📫 How to reach me: danielpimentel19@gmail.com
 
