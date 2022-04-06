@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danielpimentel00
-- 👀 I’m interested in almost everything regarding technology! Really interesed in web applications development.
+- 👀 I’m interested in almost everything regarding technology! Really interesed in software development.
 - 💞️ I’m looking to collaborate on development projects.
 - 📫 How to reach me: danielpimentel19@gmail.com
 
